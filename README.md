@@ -1,4 +1,4 @@
-### Introduction
+### Introducción
 
 Se desarrollo un servicio REST que hace las veces de una caja registradora, que le ayudará a simular una caja registradora a través de una API REST.
 
