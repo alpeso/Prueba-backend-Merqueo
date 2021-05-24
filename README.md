@@ -34,7 +34,6 @@ Ejecute los comandos:
 php artisan migrate
 php artisan key:generate.
 ```
-##### Install laravel passport
 
 **Instalar el paquete Laravel Passport:**
 
